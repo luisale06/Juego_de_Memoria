@@ -1,5 +1,0 @@
-"E:\Clion\CLion 2021.3.4\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=E:/Clion/CLion 2021.3.4/bin/ninja/win/ninja.exe" -G Ninja "E:\TEC\Datos 2\ServerProyecto1"
--- Found SFML 2.5.1 in E:/SFML-2.5.1/lib/cmake/SFML
--- Configuring done
--- Generating done
--- Build files have been written to: E:/TEC/Datos 2/ServerProyecto1/cmake-build-debug
