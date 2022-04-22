@@ -1,3 +1,0 @@
-E:/TEC/Datos 2/JuegoMemoria/Client/cmake-build-debug/CMakeFiles/Client.dir
-E:/TEC/Datos 2/JuegoMemoria/Client/cmake-build-debug/CMakeFiles/edit_cache.dir
-E:/TEC/Datos 2/JuegoMemoria/Client/cmake-build-debug/CMakeFiles/rebuild_cache.dir
